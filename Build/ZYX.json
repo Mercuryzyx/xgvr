@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "text",
+"dataUrl": "ZYX.data.unityweb",
+"wasmCodeUrl": "ZYX.wasm.code.unityweb",
+"wasmFrameworkUrl": "ZYX.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF",
+"cacheControl": {"default": "must-revalidate"}
+}
